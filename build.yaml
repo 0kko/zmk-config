@@ -13,4 +13,7 @@
 #
 ---
 include:
-  - board: ferris_rev02
+  - board: nrf52840_m2
+    shield: cradio_left
+  - board: nrf52840_m2
+    shield: cradio_right
